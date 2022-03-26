@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Paulo Esteban Chiliguano is a software engineer**
+**Paulo Chiliguano is a software engineer**
 
 ### Things I'm doing:
 - Python developer at [Crowdbotics](https://www.crowdbotics.com)

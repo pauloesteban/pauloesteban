@@ -7,7 +7,7 @@
 - C++ developer at [Pulsar Modular](https://www.pulsarmodular.com)
 - Contributing to the [Metabow Toolkit](https://github.com/pauloesteban/MetaBow-Toolkit) project
 - Practicing piano
-- Playing chess online
+- Playing chess
 
 For more information, see my [personal website](https://www.pauloesteban.com).
 

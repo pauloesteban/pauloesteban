@@ -3,7 +3,7 @@
 **Paulo Chiliguano is a software engineer**
 
 ### Things I'm doing:
-- Python developer at [Crowdbotics](https://www.crowdbotics.com)
+- Software engineer at [Crowdbotics](https://www.crowdbotics.com)
 - JUCE/C++ developer at [Audiomodern](https://audiomodern.com)
 - C++ developer at [Pulsar Modular](https://www.pulsarmodular.com)
 - 🎻 Contributing to the [Metabow Toolkit](https://github.com/pauloesteban/MetaBow-Toolkit) project

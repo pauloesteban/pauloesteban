@@ -4,7 +4,7 @@
 
 ### Things I'm doing:
 - C++ JUCE engineer at [BairesDev](https://www.bairesdev.com)
-- 🐍 Freelance software engineer at [Crowdbotics](https://www.crowdbotics.com)
+- 🐍 Freelance Software Development Consultant at [Crowdbotics](https://www.crowdbotics.com)
 - 🎻 Contributing to the [Metabow Toolkit](https://github.com/pauloesteban/MetaBow-Toolkit) project
 - 🎹 Playing electronic keyboard
 - ♟ Learning chess

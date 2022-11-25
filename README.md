@@ -7,7 +7,6 @@
 - 🐍 Freelance Software Development Consultant at [Crowdbotics](https://www.crowdbotics.com)
 - 🎻 Contributing to the [Metabow Toolkit](https://github.com/pauloesteban/MetaBow-Toolkit) project
 - 🎹 Playing electronic keyboard
-- ♟ Learning chess
 
 For more information, see my [personal website](https://www.pauloesteban.com).
 

@@ -3,7 +3,6 @@
 **Paulo Chiliguano is a software engineer**
 
 ### Things I'm doing:
-- C++ JUCE engineer at [BairesDev](https://www.bairesdev.com)
 - 🐍 Freelance Software Development Consultant at [Crowdbotics](https://www.crowdbotics.com)
 - 🎻 Contributing to the [Metabow Toolkit](https://github.com/pauloesteban/MetaBow-Toolkit) project
 - 🎹 Playing electronic keyboard

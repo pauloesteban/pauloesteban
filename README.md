@@ -3,7 +3,7 @@
 **Paulo Chiliguano is a software engineer**
 
 ### Things I'm doing:
-- 🐍 Freelance Software Development Consultant at [Crowdbotics](https://www.crowdbotics.com)
+- 🐍 Freelance Software Development Consultant at [dorsa.ai](https://www.dorsa.ai)
 - 🌱 I’m currently learning [Qt](https://www.qt.io/academy)
 <!--
 - 🎻 Contributing to the [Metabow Toolkit](https://github.com/pauloesteban/MetaBow-Toolkit) project

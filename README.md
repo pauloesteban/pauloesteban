@@ -3,6 +3,7 @@
 **Paulo Chiliguano is a software engineer**
 
 ### Things I'm doing:
+- Software engineer contractor at [BairesDev](https://www.bairesdev.com)
 - 🐍 Freelance Software Development Consultant at [dorsa.ai](https://www.dorsa.ai)
 - 🌱 I’m currently learning [Qt](https://www.qt.io/academy)
 <!--

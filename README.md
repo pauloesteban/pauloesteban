@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-**Paulo Chiliguano is a software engineer**
+**Paulo Chiliguano is currently a software engineer**
 
 ### Things I'm doing:
-- Software engineer contractor at [BairesDev](https://www.bairesdev.com)
+- Independent contractor at [BairesDev](https://www.bairesdev.com)
 - 🐍 Freelance Software Development Consultant at [dorsa.ai](https://www.dorsa.ai)
-- 🌱 I’m currently learning [Qt](https://www.qt.io/academy)
+- 🧑‍🧒‍🧒 Parenting
 <!--
 - 🎻 Contributing to the [Metabow Toolkit](https://github.com/pauloesteban/MetaBow-Toolkit) project
 -->
 
-For more information, see my [personal website](https://www.pauloesteban.com).
+For more information, see my [personal website](https://pauloesteban.github.io).
 
 ![Paulo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pauloesteban&show_icons=true&theme=onedark&count_private=true)
 

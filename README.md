@@ -4,7 +4,6 @@
 
 ### Things I'm doing:
 - Independent contractor at [BairesDev](https://www.bairesdev.com)
-- 🐍 Freelance Software Development Consultant at [dorsa.ai](https://www.dorsa.ai)
 - 🧑‍🧒‍🧒 Parenting
 <!--
 - 🎻 Contributing to the [Metabow Toolkit](https://github.com/pauloesteban/MetaBow-Toolkit) project
